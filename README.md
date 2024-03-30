@@ -1,16 +1,9 @@
 # fashiondruic
 
-A new Flutter project.
+##Flutter UI clone based on Dribble UI Design Interested 
+###Implmented UI Clone as show below in video
 
-## Getting Started
+https://github.com/ermais/fashiondruic/assets/33171889/94d2c25f-850d-49b7-b4cd-f967a94abf23
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Dribble UI Design I have cloned
+![525df97d2cbaaf34049aa718753194ae](https://github.com/ermais/fashiondruic/assets/33171889/1796b87c-1965-4e04-b87e-014aca2fd7c9)
